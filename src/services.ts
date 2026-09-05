@@ -1,5 +1,5 @@
 
-interface Service {
+export interface Service {
     id: number,
     title: string
 }
